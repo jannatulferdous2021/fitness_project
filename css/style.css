@@ -45,7 +45,7 @@ banner sextion style start
 .banner{
     background-image:
     linear-gradient(to bottom,  rgba(24,24,23,0.835171568627451),rgba(69,63,59,0.7791491596638656)),
-    url('/images/unsplash_banner.avif');
+    url('../images/unsplash_banner.avif');
     /* background-image:
     linear-gradient(to bottom,rgb(24,24,23),),
     url('../images/unsplash_banner.avif'); */
@@ -160,7 +160,7 @@ PUT YOURSELF FIRST style end
 .why_card{
     background-image:
     linear-gradient(to bottom,  rgba(24,24,23,0.835171568627451),rgba(69,63,59,0.7791491596638656)),
-    url('/images/card1.jpg');
+    url('../images/card1.jpg');
     background-position: center;
     background-size: cover;
     height: 200px;
