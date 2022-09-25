@@ -1,0 +1,367 @@
+*{
+    text-decoration: none !important;
+}
+/* ============
+navbar section style start 
+==============*/
+.discount {
+    border-bottom: 2px solid #FFFFFF ;
+    width: 100%;
+    color: #FFFFFF !important;
+}
+.navbar{
+    background-color:  #171717;;
+}
+.navbar-collapse ul li a{
+    color: #FFFFFF !important;
+    font-weight: bold;
+}
+.nav_btn button a{
+    font-size: 14px !important;
+    color: #FFFFFF !important;
+    font-weight: bold;
+}
+.nav_btn button{
+    border-radius: 25px !important;
+    background-color:  #171717 !important;
+}
+.btn2 button{
+    background-color: #FFFFFF !important;
+}
+.btn2 button a{
+    color: #171717 !important;
+}
+.bar{
+    color: #FFFFFF;
+    font-size: 25px;
+}
+/* ============
+navbar section style end 
+==============*/
+
+/* ================
+banner sextion style start
+====================  */
+.banner{
+    background-image:
+    linear-gradient(to bottom,  rgba(24,24,23,0.835171568627451),rgba(69,63,59,0.7791491596638656)),
+    url('/images/unsplash_banner.avif');
+    /* background-image:
+    linear-gradient(to bottom,rgb(24,24,23),),
+    url('../images/unsplash_banner.avif'); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+} 
+.banner_text h1{
+    color: #FFFFFF ;
+    font-size: 50px ;
+    font-weight: bold;
+}
+.banner_text {
+    margin-top: 230px;
+}
+/* ================
+banner sextion style end
+====================  */
+
+
+/*========================
+ PUT YOURSELF FIRST section style start
+ ============================ */
+.put{
+    background-color:  #C8102E;
+    height: 30vh;
+}
+
+.put_text h1{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 40px;
+}
+.put_text p{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.put_text button{
+    background-color: #C8102E !important;
+    border-radius: 30px;
+}
+.put_text button a{
+    color: #FFFFFF !important;
+}
+.put_text p a{
+    color: #FFFFFF !important;
+}
+ /*========================
+ PUT YOURSELF FIRST section style end
+ ============================ */
+
+/* ==================================
+EXPLORE FITNESS FIRST section style start
+=======================================  */
+.explore_card_text h3:hover{
+    color: #C8102E;
+}
+.explore_card:hover{
+    width: 350px;
+}
+.card{
+    outline: none !important;
+    border: none !important;
+}
+
+/* ==================================
+EXPLORE FITNESS FIRST section style end
+=======================================  */
+
+/* ==================================
+PUT YOURSELF FIRST style start 
+================================ */
+.put_yourself{
+    box-shadow: 10px 18px 15px -2px rgba(181,167,167,0.75);
+    -webkit-box-shadow: 10px 18px 15px -2px rgba(181,167,167,0.75);
+    -moz-box-shadow: 10px 18px 15px -2px rgba(181,167,167,0.75);
+}
+.membership img{
+    height:100%;
+    width: 100%;
+    -webkit-clip-path: polygon(0 0, 85% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 0, 85% 0, 100% 100%, 0% 100%);
+}
+.membership_col{
+    height: 100%;
+}
+.membership_row{
+    height: 30vh;
+}
+.membership_text h3{
+    color: #171717;
+    font-weight: bold;
+    font-size: 40px;
+}
+.membership_btn button{
+    background-color: #C8102E;
+    border-radius: 30px;
+}
+
+/* ==================================
+PUT YOURSELF FIRST style end
+================================ */
+
+/*====================================
+ WHY FITNESS FIRST? style start  
+ ===================================*/
+.why_heading h1{
+    margin-top: 120px !important;
+}
+.why_card{
+    background-image:
+    linear-gradient(to bottom,  rgba(24,24,23,0.835171568627451),rgba(69,63,59,0.7791491596638656)),
+    url('/images/card1.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 370px !important;
+}
+.why_card_text{
+    margin-top: 130px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+/*====================================
+ WHY FITNESS FIRST? style end
+ ===================================*/
+
+
+ /* ===========================
+ Reform Pilates section style start
+ ============================== */
+ .reform_img{
+    width: 100% !important;
+    height: 400px !important;
+ }
+.reform_btn{
+    border-radius: 30px !important;
+    font-weight: bold !important;
+}
+.reform_text h4{
+    font-size: 40px !important;
+}
+.reform_text p{
+    font-size: 30px !important;
+    font-weight: 400;
+}
+.reform_container{
+    border-radius: 25px !important;
+    box-shadow: 6px 10px 12px 0px rgba(153,141,141,0.75);
+-webkit-box-shadow: 6px 10px 12px 0px rgba(153,141,141,0.75);
+-moz-box-shadow: 6px 10px 12px 0px rgba(153,141,141,0.75);
+}
+  /* ===========================
+ Reform Pilates section style end
+ ============================== */
+
+ /* ===========================
+ GET THERE WITH FITNESS FIRST section style start
+ ========================================  */
+.get_card:hover{
+    width: 550px;
+}
+.view h2 a{
+    line-height: 100px;
+    color: #C8102E;
+}
+  /* ===========================
+ GET THERE WITH FITNESS FIRST section style end 
+ ========================================  */
+
+/* ======================================
+Filter and ShowBy section  style start 
+================================== */
+.bg{
+    background-color: #C8102E;
+    padding-top: 5px;
+}
+.bg-con{
+    margin-top: 100px !important;
+}
+.bg2{
+    background-color:  #CA374F;
+    border-radius: 10px ;
+    padding: 10px 0px;
+}
+.btn-group button{
+    background-color: #C8102E;
+}
+.filter p{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.filter2{
+    margin-left: 621px;
+}
+.filter2 p{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.filter_card .card{
+    height: 400px;
+    background-color: #C8102E !important;
+    color: #FFFFFF !important;
+}
+.filter_img{
+    height: 200px;
+    border-radius: 10px;
+}
+/* ======================================
+Filter and ShowBy section  style end
+================================== */
+
+/* =================
+footer style start 
+===============  */
+footer{
+    background-color: #171717;
+    color: #FFFFFF;
+    font-weight: bold;
+    height: 40vh !important;
+}
+
+/* =================
+footer style end
+===============  */
+@media (max-width: 575.98px) { 
+    .banner{
+        height: 100vh;
+    }
+    .banner_text h1{
+        font-size: 26px !important;
+    }
+    .banner_text {
+        margin-top: 100px;
+    }
+    .put{
+        height: 100vh;
+    }
+    .put_text{
+        text-align: center;
+    }
+    .put_text h1{
+        font-size: 24px !important;
+    }
+    .put_text p a{
+        text-align: center;
+    }
+    .put_yourself{
+        height: 100vh !important;
+    }
+    .membership img{
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+border-radius: 10px;
+    }
+    .membership_text h3{
+        font-size: 30px;
+    }
+    .membership_text h3{
+        text-align: center !important;
+    }
+    .membership_text p{
+        text-align: center !important;
+    }
+    .membership_btn button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .reform_text h4
+    {
+        font-size: 30px !important;
+    }
+    .reform_text p{
+        font-size: 20px !important;
+    }
+    footer{
+        height: 170vh !important;
+    }
+ }
+
+
+ @media (max-width: 991.98px) { 
+    .banner_text h1{
+        font-size: 50px;
+    }
+    .banner_text {
+        margin-top: 60px;
+    }
+    .put{
+        height: 300px;
+    }
+    .explore_card_text h3{
+        font-size: 20px;
+    }
+    .put_yourself{
+        height: 200px !important;
+    }
+    .membership img{
+        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    border-radius: 10px;}
+    .membership_text h3{
+        font-size: 30px !important;
+    }
+    .reform_text p{
+        font-size: 22px !important;
+    }
+    footer{
+        height: 75vh !important;
+    }
+  }
+/* =================
+media queires style start 
+======================== */
+
+
